@@ -1,0 +1,224 @@
+body{
+margin: 0;
+font-family: "华文细黑";
+background-image: url('./bj.jpg');
+background-size:100%;
+position:relative;
+}
+.title{
+font-size:14px;
+color:#424242;
+}
+.background{
+margin:0auto;
+max-width:800px;
+min-width:320px;
+padding-bottom:0.1px;
+padding-top:56px;
+}
+.top{
+background:#F48FB1;
+color:#FFFFFF;
+height:56px;
+width:100%;
+line-height:56px;
+font-size:17px;
+padding-left:10px;
+box-shadow:0px1px2pxrgba(0,0,0,0.2);
+position:fixed;
+}
+.card {
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+background: #fff;
+margin: 10px;
+padding: 10px;
+}
+input{
+border:none;
+border-bottom:solid;
+border-bottom-width:1px;
+margin-top:5px;
+width:100%;
+height:25px;
+outline:none;
+}
+input:focus{
+outline:none;
+border-color:#F48FB1;
+border-bottom-color:#F48FB1;
+}
+textarea {
+border: none;
+border-bottom: solid;
+border-bottom-width: 1px;
+margin-top: 5px;
+width: 100%;
+height: 380px;
+outline: none;
+}
+textarea:focus {
+outline: none;
+border-color: #03a9f4;
+border-bottom-color: #03A9F4;
+}
+.a{
+margin-top:15px;
+color:#ffffff;
+background:#B388FF;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.b{
+margin-top:15px;
+color:#ffffff;
+background:#20AEEB;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.c{
+margin-top:15px;
+color:#ffffff;
+background:#009688;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.aa{
+margin-top:15px;
+margin-right:8px;
+color:#ffffff;
+background:#E57373;
+width:45%;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.bb{
+margin-top:15px;
+margin-left:8px;
+color:#ffffff;
+background:#64B5F6;
+width:45%;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.cc{
+margin-top:15px;
+color:#ffffff;
+background:#FFC107;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.i{
+margin-top:15px;
+color:#ffffff;
+background:#9E9E9E;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.ii{
+margin-top:15px;
+color:#ffffff;
+background:#795548;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.iii{
+margin-top:15px;
+color:#ffffff;
+background:#4CAF50;
+width:350px;
+height:35px;
+border-top-left-radius:30em;
+border-top-right-radius:30em;
+border-bottom-left-radius:30em;
+border-bottom-right-radius:30em;
+border-top-width:0px;
+border-right-width:0px;
+border-bottom-width:0px;
+border-left-width:0px;
+cursor:pointer;
+box-shadow:0px2px3pxrgba(0,0,0,0.2);
+}
+.tx{ 
+margin-top: 15px; 
+width:60px; 
+height:60px; 
+border-radius:40px; 
+}
