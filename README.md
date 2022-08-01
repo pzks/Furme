@@ -1,6 +1,6 @@
 # **Furme**
 
-![tupian](https://gitee.com/penkai/furme/raw/master/image/1.png)
+![输入图片说明](image/1.png)
 
 - Furme是由开发者pengzekai独自开发的一个开源的社区框架，使用何乐开源协议HSL（https://pzks.github.io/post/he-le-kai-yuan-xie-yi-hele-open-source-license-v31/）
 和GPL-3.0进行发布，如果和GPL-3.0有矛盾的地方，以HSL3.1为准，感谢使用！
