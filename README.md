@@ -20,7 +20,7 @@ if (mysqli_connect_errno($conn))
 	die("连接 MySQL 失败: " . mysqli_connect_error()); 
 }
 ?>
-```
+```php
 
 
 ### 使用到的项目
