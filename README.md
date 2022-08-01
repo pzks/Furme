@@ -1,37 +1,18 @@
-# furme
+# **Furme**
 
-#### 介绍
-由simpost强力驱动的社区系统
+Furme是由开发者pengzekai独自开发的一个开源的社区框架，相比于simpost，Furme更加易用，Furme在simpost的基础上使用了mysql，并且优化了评论系统，也加入了关注，分享等新功能，为了方便移动使用，完善了移动ui，需要配合fusion app打包使用，相比于simpost也完善了用户系统，将用户名和昵称分开，完善了财务系统，在登录处做了限制，防止过长的数据等，同样的，加入了搜索功能，让寻找帖子更加快速，也完善了发布系统，优化了markdown编辑器对移动端的适配，并将其分开分成动态和图文两块，删除了话题系统。
 
-#### 软件架构
-软件架构说明
+# furme的目标是为小众圈子提供一个更加简单搭建方案
+### 使用到的项目
 
+#### sweetalert弹窗：https://sweetalert.bootcss.com/
+#### markdown编辑器：https://pandao.github.io/editor.md/
+#### Strapdown.js解释器：https://github.com/arturadib/strapdown/
+#### jquery前端：https://jquery.com/
+#### openzui前端：http://www.openzui.com/
+#### share.js分享
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+### 捐赠
+如果你觉得对你有帮助的话可以考虑捐赠作者，谢谢！
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
