@@ -131,7 +131,7 @@ CREATE TABLE `tie` (
 --
 
 INSERT INTO `tie` (`tid`, `title`, `user`, `neirong`, `time`, `icon`) VALUES
-('0f65861b28ae776e5c235daa4d98c7aa', 's', 'w', '！少时诵诗书', '2022-07-23 13:31:57', 'https://cravatar.cn/avatar/dec29f6538e03927787794ff4b074740');
+('0f65861b28ae776e5c235daa4d98c7aa', '欢迎使用Furme', 'w', '欢迎使用Furme！', '2022-07-23 13:31:57', 'https://cravatar.cn/avatar/dec29f6538e03927787794ff4b074740');
 
 --
 -- 转储表的索引
