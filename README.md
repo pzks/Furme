@@ -8,7 +8,7 @@ Furme是由开发者pengzekai独自开发的一个开源的社区框架，相比
 ### 如何使用furme
 目前版本的furme还没有安装功能，需要大家手动配置上传代码文件夹里的`my.sql`文件到数据库里然后配置`lib/conn.php`里的代码，来连接数据库
 
-```
+```php
 <?php
 $mysql_server_name = 'localhost'; //数据库服务器
 $mysql_username = 'my'; //数据库用户名
@@ -20,7 +20,7 @@ if (mysqli_connect_errno($conn))
 	die("连接 MySQL 失败: " . mysqli_connect_error()); 
 }
 ?>
-```php
+```
 
 
 ### 使用到的项目
